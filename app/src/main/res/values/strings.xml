@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">damon_4_5</string>
+    <string name="txtTitle">Currency Conversion App</string>
+    <string name="radOne">Euros</string>
+    <string name="radTwo">Mexican Pesos</string>
+    <string name="radThree">Canadian Dollars</string>
+    <string name="txtHint">Please Enter Number of US Dollars to Be Converted.</string>
+    <string name="btnCalc">Calculate</string>
+</resources>
